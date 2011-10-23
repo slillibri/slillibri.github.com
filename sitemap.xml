@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://slillibri.github.com/blog/2011/10/23/testing-octopress/</loc>
+        <lastmod>2011-10-23T15:30:15-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://slillibri.github.com/blog/archives/</loc>
-        <lastmod>2011-10-23T14:57:46-07:00</lastmod>
+        <lastmod>2011-10-23T15:30:15-07:00</lastmod>
     </url>
     <url>
         <loc>http://slillibri.github.com/</loc>
-        <lastmod>2011-10-23T14:57:46-07:00</lastmod>
+        <lastmod>2011-10-23T15:30:15-07:00</lastmod>
     </url>
 </urlset>
