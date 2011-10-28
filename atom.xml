@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://slillibri.github.com/atom.xml" rel="self"/>
   <link href="http://slillibri.github.com/"/>
-  <updated>2011-10-26T15:55:58-07:00</updated>
+  <updated>2011-10-28T15:04:24-07:00</updated>
   <id>http://slillibri.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Changes to my environment]]></title>
+    <link href="http://slillibri.github.com/blog/2011/10/28/changes-to-my-environment/"/>
+    <updated>2011-10-28T14:43:00-07:00</updated>
+    <id>http://slillibri.github.com/blog/2011/10/28/changes-to-my-environment</id>
+    <content type="html"><![CDATA[<p>Been making some changes to my local development environment. Some of the bigger ones follow:</p>
+
+<p>  Switched to <a href="http://www.zsh.org">zsh</a> for my shell. Still not quite sure I am going to stick to it, but giving it a chance. Quite a change from my basic bash setup I have been using for years. I had to update a few of my aliases, but it gave me a reason to cleanup my profile files. Installed Oh My ZSH! and this has been helpful. Of course I had to turn off the case insensitive expansion (that was annoying), but it is making the environment a lot nicer.</p>
+
+<p>  Reinstalled <a href="http://decimus.net/DTerm">DTerm</a>, and this is a nice addition for a lot of the aliases and one-liners I like to run while I am working.</p>
+
+<p>  Big rework of my local GeekTool desktop. The release of GeekTool in the Mac App Store caused me to finally reinstall this. I&#8217;ll post my scripts to GitHub one of these days.</p>
+
+<p>  Started this here GitHub Pages blog, and there is an About Me section <a href="http://slillibri.github.com/about/">here</a>. I am still working on the layout and such, so it is a work in progress.</p>
+
+<p>  Using <a href="http://code.google.com/p/macvim/">MacVim</a> more and more, but I am still quite tied to Textmate. Is there a developers editor that implements the newer features available in Lion? My biggest problem is I have internalized a lot of the snippets, and not having those is a drag.</p>
+
+<p>  Cleaned up the old home dir, so that most files are now nicely organized into folders. It was getting pretty messy.</p>
+
+<p>  Upgraded my local Tomcat/Solr install so I can start working on my bookmarking app again. Had to do a full ant clean/ant compile/ant dist cycle because Solr was complaining about missing methids. Started using Pow again for local testing, but I haven&#8217;t made up my mind on that one. I have also been playing with JQuery mobile for my little note-taking app.</p>
+
+<p>  Some other things I have been looking at include <a href="http://www.scientificlinux.org">Scientific Linux</a>, <a href="http://basho.com/">Riak</a>, <a href="http://www.mongodb.org">MongoDB/GridFS</a>, <a href="http://puppetlabs.com/mcollective/introduction/">MCollective</a>, and this <a href="http://labs.consol.de/lang/de/nagios/mod-gearman/">Nagios/Mod-Gearman</a> thing. I want to look at that a lot more soon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing Octopress]]></title>
