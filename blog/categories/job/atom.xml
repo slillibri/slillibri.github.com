@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: job | My Octopress Blog]]></title>
+  <link href="http://slillibri.github.com/blog/categories/job/atom.xml" rel="self"/>
+  <link href="http://slillibri.github.com/"/>
+  <updated>2011-11-21T17:28:02-07:00</updated>
+  <id>http://slillibri.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Moving to Austin]]></title>
+    <link href="http://slillibri.github.com/blog/2011/11/21/moving-to-austin/"/>
+    <updated>2011-11-21T17:21:00-07:00</updated>
+    <id>http://slillibri.github.com/blog/2011/11/21/moving-to-austin</id>
+    <content type="html"><![CDATA[<p>I am moving to Austin, TX to take a job at <a href="http://www.hostgator.com">HostGator</a>. I start there on Dec 12, and have realized that in 10 years of living in the same apartment I have accumulated a metric ton of shite. So I am jettisoning 99% of my crap and only taking the very most important things with me. Big fun!</p>
+]]></content>
+  </entry>
+  
+</feed>
